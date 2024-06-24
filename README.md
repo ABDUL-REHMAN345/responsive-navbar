@@ -1,4 +1,4 @@
-# Responsive-navbar
+# Responsive-Navbar
 created responsive navbar for 📱mobile and 💻desktop.
 
 > Desktop view `1280x720`
